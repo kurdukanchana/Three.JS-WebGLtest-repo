@@ -3,4 +3,4 @@ This is an experimental Three.JS website. Making this a boilerplate for free usa
 
     #This is a work in progress! Any issues and suggestions are welcome :)
 
-Using 3D models form NASA.
+Using 3D models from NASA.
